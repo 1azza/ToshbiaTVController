@@ -14,6 +14,7 @@ def send_command(key_code: int) -> None:
         "Connection": "keep-alive",
         "Accept-Language": "en-GB,en;q=0.9",
         "Content-Type": "application/xml",
+        
         "Content-Length": "56",
         "Accept": "/"
     }
